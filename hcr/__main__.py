@@ -18,8 +18,11 @@ def main():
     intended to be humorous, but doable. Focus on a single action that is done at the top of the route. This extra goal is referred to as a gold star.
 
     Example Gold Star Goal:
-    On a route named "Cotton Candy" at the "The Walls of Controversy", you gain a gold star for bringing cotton candy with you to the top,
+    On a route named "Cotton Candy", you gain a gold star for bringing cotton candy with you to the top,
     and eating some once you complete the route.
+
+    Example Gold Star Goal:
+    On a route named "The Killing Tree", you gain a gold star for taking a fall and hitting the tree near the route.
     
     Take the information below and respond with a gold star goal for the route given the route name, wall name, and its description.
     Route Name: {route_name}
